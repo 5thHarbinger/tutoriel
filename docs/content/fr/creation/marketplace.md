@@ -8,11 +8,7 @@ raisons:
 - soit vous avez la flemme
 ---
 
-<alert>
-    tkt la vraie vidéos arrive soon™
-</alert>
-
-<tuto-video :link="'https://www.youtube-nocookie.com/embed/dQw4w9WgXcQ'" :title="'Rick Astley - Never Gonna Give You Up'"></tuto-video>
+<tuto-video :link="'https://www.youtube-nocookie.com/embed/gUe8uzsjhUc'" :title="'Depuis le marketplace - Tuto GitHub Actions'"></tuto-video>
 
 ## Choisissez la simplicité
 
